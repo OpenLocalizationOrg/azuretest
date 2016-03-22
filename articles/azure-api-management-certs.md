@@ -52,3 +52,4 @@ Once you have a management certficate created, (.cer file with only the public k
 
 Now that you have a management certficate associated with a subscription, you can (after you have installed the matching certificate locally) programatically connect to the [Service Management REST API](https://msdn.microsoft.com/library/azure/ee460799.aspx) and automate the various Azure resources that are also associated with that subscription. 
 test
+ another branch's write access
