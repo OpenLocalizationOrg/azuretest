@@ -1,0 +1,17 @@
+{
+  "build_entry_point": "op.ps1",
+  "docsets_to_publish": [
+    {
+      "docset_name": "azuretest",
+      "locale": "en-US",
+      "build_source_folder": null,
+      "build_output_subfolder": "articles",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "Reference": "Content"
+      }
+    }
+  ]
+}
